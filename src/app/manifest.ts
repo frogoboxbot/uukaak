@@ -2,13 +2,13 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Amir App',
-    short_name: 'AmirApp',
-    description: 'Amir App Progressive Web App',
+    name: 'UukAak JSON CMS',
+    short_name: 'UukAakCMS',
+    description: 'UukAak JSON CMS Progressive Web App with AES-256 Encryption & GitHub Sync',
     start_url: '/',
     display: 'standalone',
-    background_color: '#ffffff',
-    theme_color: '#000000',
+    background_color: '#f8fafc',
+    theme_color: '#4f46e5',
     icons: [
       {
         src: '/icon-192x192.svg',
@@ -23,3 +23,4 @@ export default function manifest(): MetadataRoute.Manifest {
     ],
   }
 }
+

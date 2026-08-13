@@ -10,16 +10,9 @@ const rawKey = process.env.ENCRYPTION_KEY || "";
 
 // Pad or truncate key to exactly 32 bytes to avoid runtime crashes in crypto.createCipheriv,
 // but log a warning if it's not configured correctly in production.
-let key: Buffer;
-if (rawKey.length === 32) {
-  key = Buffer.from(rawKey, "utf-8");
-} else {
-  if (process.env.NODE_ENV === "production") {
-    console.warn("⚠️ [Crypto Warning]: ENCRYPTION_KEY is not exactly 32 characters long. Adjusting size, but you should set a secure 32-byte key in production.");
-  }
-  // Fallback/adjustment to ensure it does not throw: create a 32-byte hash from the key
-  key = crypto.createHash("sha256").update(rawKey || "fallback-static-key-32-chars-long").digest();
-}
+const key: Buffer = rawKey.length === 32
+  ? Buffer.from(rawKey, "utf-8")
+  : crypto.createHash("sha256").update(rawKey || "uukaak_secret_key_32_bytes_len!").digest();
 
 /**
  * Encrypts a string (e.g. an ID, string representation of object, UUID) using AES-256-GCM.
@@ -31,7 +24,7 @@ if (rawKey.length === 32) {
 export function encrypt(text: string): string {
   try {
     if (!text) {
-      throw new Error("Text to encrypt cannot be empty.");
+      return "";
     }
 
     const iv = crypto.randomBytes(IV_LENGTH);

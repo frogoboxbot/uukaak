@@ -1,28 +1,32 @@
 {
   "common": {
-    "appName": "Amir App",
+    "appName": "UukAak JSON CMS",
     "loading": "Loading...",
     "error": "An error occurred",
-    "retry": "Retry",
+    "retry": "Try Again",
     "back": "Back",
     "next": "Next",
-    "save": "Save",
+    "save": "Save Data",
     "cancel": "Cancel",
-    "delete": "Delete",
-    "edit": "Edit",
-    "search": "Search",
+    "delete": "Delete Data",
+    "edit": "Edit Data",
+    "search": "Search JSON data...",
     "close": "Close",
     "yes": "Yes",
     "no": "No",
     "or": "or",
-    "and": "and"
+    "and": "and",
+    "add": "Add New Record",
+    "actions": "Actions"
   },
   "nav": {
-    "home": "Home",
-    "about": "About",
-    "contact": "Contact",
-    "menu": "Menu",
-    "language": "Language"
+    "home": "Portal Home",
+    "dashboard": "Admin Dashboard",
+    "login": "Admin Login",
+    "logout": "Admin Logout",
+    "language": "Language",
+    "catalog": "JSON Catalog",
+    "docs": "API Docs"
   },
   "theme": {
     "label": "Theme",
@@ -31,48 +35,73 @@
     "system": "System"
   },
   "home": {
-    "title": "Welcome",
-    "subtitle": "To get started, edit the page.tsx file.",
-    "description": "Looking for a starting point or more instructions? Head over to",
-    "templates": "Templates",
-    "learning": "Learning Center",
-    "deployNow": "Deploy Now",
-    "documentation": "Documentation"
+    "title": "UukAak JSON CMS Platform",
+    "heroTitle": "Securely Manage JSON Files with GitHub Commit Sync",
+    "subtitle": "Modern CMS platform powered by src/data/lo JSON files, AES-256-GCM encryption, and Sqids ID obfuscation.",
+    "exploreCatalog": "Explore JSON Data",
+    "adminPortal": "Admin Dashboard Portal",
+    "statsTitle": "CMS Statistics Overview",
+    "totalDatasets": "Total JSON Datasets",
+    "totalRecords": "Total Data Records",
+    "encryptionStatus": "Encryption Security",
+    "activeToggles": "Active Toggles",
+    "featuresTitle": "Core Key Features",
+    "feat1Title": "File-based JSON CRUD",
+    "feat1Desc": "Fast data management without heavy database overhead, directly on local JSON files.",
+    "feat2Title": "AES-256-GCM & Sqids Security",
+    "feat2Desc": "Encrypted sensitive data and hidden IDs protected against tampering.",
+    "feat3Title": "GitHub Commit & Push Sync",
+    "feat3Desc": "Every data change is automatically synchronized to GitHub repository via Git commit API.",
+    "feat4Title": "PWA & High Performance",
+    "feat4Desc": "Offline-first Serwist Service Worker and Next.js 16 Server Components.",
+    "previewTitle": "JSON Data Preview Catalog (src/data/lo)",
+    "previewDesc": "Real-time sample of music collection, feature toggles, and monetization config."
+  },
+  "cms": {
+    "musicTitle": "Music Collection (`music.json`)",
+    "toggleTitle": "Feature Toggles (`toggle.json`)",
+    "monetizeTitle": "Monetization Ads (`monetize-apps.json`)",
+    "musicTab": "Music JSON",
+    "toggleTab": "Toggle JSON",
+    "monetizeTab": "Monetize JSON",
+    "fieldTitle": "Music Title",
+    "fieldUrl": "Music URL (.mp3)",
+    "fieldBaseUrl": "Base URL Path",
+    "fieldKey": "Toggle Key",
+    "fieldState": "Toggle State",
+    "fieldValue": "Key Value",
+    "fieldAdmobId": "Admob App ID",
+    "fieldUnityId": "Unity Game ID",
+    "githubStatus": "Git Push Status: Connected & Auto-Sync",
+    "lastCommit": "Last Commit",
+    "pushSuccess": "Successfully committed & pushed data to GitHub!",
+    "confirmDelete": "Are you sure you want to delete this data?",
+    "confirmDeleteDesc": "This action will remove the JSON record and trigger a commit push to GitHub.",
+    "encryptedBadge": "AES-256 Encrypted",
+    "obfuscatedBadge": "Sqids Obfuscated ID"
+  },
+  "auth": {
+    "loginTitle": "Administrator Sign In",
+    "loginSubtitle": "Enter encrypted admin credentials to access CMS management",
+    "passwordLabel": "Admin Password",
+    "passwordPlaceholder": "Enter password...",
+    "submitLogin": "Sign In to Dashboard",
+    "invalidPassword": "Invalid admin password!",
+    "logoutSuccess": "Successfully logged out from admin session."
   },
   "metadata": {
-    "title": "Amir App",
-    "description": "Amir App — Progressive Web Application"
+    "title": "UukAak JSON CMS — Amir App",
+    "description": "Modern JSON file-based CMS platform, AES-256 Encryption, & GitHub Commit Sync"
   },
   "error": {
     "notFound": "Page not found",
     "notFoundDescription": "Sorry, the page you are looking for does not exist.",
     "serverError": "Server Error",
-    "serverErrorDescription": "A server error occurred. Please try again later.",
-    "goHome": "Go to Homepage"
+    "serverErrorDescription": "An error occurred on the server. Please try again later.",
+    "goHome": "Back to Home"
   },
   "footer": {
-    "copyright": "© {year} Amir App. All rights reserved.",
-    "madeWith": "Made with"
-  },
-  "demo": {
-    "title": "ID Encryption & Obfuscation",
-    "subtitle": "High security & clean URLs for Next.js",
-    "intro": "This page demonstrates the implementation of two ID security techniques that have been integrated into this template.",
-    "obfuscationTitle": "1. ID Obfuscation (Sqids)",
-    "obfuscationDesc": "Converts sequential database integer IDs into short, unique, and URL-friendly strings. Perfect for hiding IDs from being guessed.",
-    "obfuscationPlaceholder": "Enter positive number ID (e.g. 12345)",
-    "obfuscateButton": "Obfuscate ID",
-    "deobfuscateButton": "Deobfuscate ID",
-    "encryptionTitle": "2. Cryptographic Encryption (AES-256-GCM)",
-    "encryptionDesc": "High-security, authenticated, and tamper-proof AES-GCM encryption. Runs exclusively on the server (Server Component / Action).",
-    "encryptionPlaceholder": "Enter sensitive text or UUID",
-    "encryptButton": "Encrypt Text",
-    "decryptButton": "Decrypt Text",
-    "result": "Result",
-    "original": "Original",
-    "processed": "Processed",
-    "errorInvalidNumber": "Please enter a valid positive number.",
-    "errorEmptyText": "Text cannot be empty.",
-    "success": "Success!"
+    "copyright": "© 2026 UukAak CMS (Amir App). All rights reserved.",
+    "securityInfo": "Operated with AES-256-GCM Encryption & Serwist PWA"
   }
 }

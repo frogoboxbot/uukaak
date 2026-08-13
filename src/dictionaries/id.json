@@ -1,28 +1,32 @@
 {
   "common": {
-    "appName": "Amir App",
+    "appName": "UukAak JSON CMS",
     "loading": "Memuat...",
     "error": "Terjadi kesalahan",
     "retry": "Coba Lagi",
     "back": "Kembali",
     "next": "Selanjutnya",
-    "save": "Simpan",
+    "save": "Simpan Data",
     "cancel": "Batal",
-    "delete": "Hapus",
-    "edit": "Ubah",
-    "search": "Cari",
+    "delete": "Hapus Data",
+    "edit": "Ubah Data",
+    "search": "Cari data JSON...",
     "close": "Tutup",
     "yes": "Ya",
     "no": "Tidak",
     "or": "atau",
-    "and": "dan"
+    "and": "dan",
+    "add": "Tambah Data Baru",
+    "actions": "Aksi"
   },
   "nav": {
-    "home": "Beranda",
-    "about": "Tentang",
-    "contact": "Kontak",
-    "menu": "Menu",
-    "language": "Bahasa"
+    "home": "Beranda Portal",
+    "dashboard": "Dashboard Admin",
+    "login": "Login Admin",
+    "logout": "Keluar Admin",
+    "language": "Bahasa",
+    "catalog": "Katalog JSON",
+    "docs": "Dokumentasi API"
   },
   "theme": {
     "label": "Tema",
@@ -31,17 +35,63 @@
     "system": "Sistem"
   },
   "home": {
-    "title": "Selamat Datang",
-    "subtitle": "Untuk memulai, edit file page.tsx.",
-    "description": "Mencari titik awal atau instruksi lebih lanjut? Kunjungi",
-    "templates": "Template",
-    "learning": "Pusat Belajar",
-    "deployNow": "Deploy Sekarang",
-    "documentation": "Dokumentasi"
+    "title": "UukAak JSON CMS Platform",
+    "heroTitle": "Kelola Data JSON dengan Aman & Sinkronisasi GitHub Commit",
+    "subtitle": "Platform CMS modern berbasis file JSON src/data/lo untuk performa maksimal, enkripsi AES-256-GCM, dan pengamanan ID Sqids.",
+    "exploreCatalog": "Jelajahi Data JSON",
+    "adminPortal": "Portal Dashboard Admin",
+    "statsTitle": "Ringkasan Statistik CMS",
+    "totalDatasets": "Total Dataset JSON",
+    "totalRecords": "Total Record Data",
+    "encryptionStatus": "Keamanan Enkripsi",
+    "activeToggles": "Toggle Aktif",
+    "featuresTitle": "Keunggulan Utama UukAak CMS",
+    "feat1Title": "CRUD JSON Berbasis File",
+    "feat1Desc": "Pengelolaan data cepat tanpa beban database berat, langsung pada file JSON lokal.",
+    "feat2Title": "Enkripsi AES-256-GCM & Sqids",
+    "feat2Desc": "Keamanan data sensitif terenkripsi dan ID tersembunyi agar aman dari tampering.",
+    "feat3Title": "GitHub Commit & Push Sync",
+    "feat3Desc": "Setiap perubahan data otomatis disinkronkan ke repositori GitHub via Git commit API.",
+    "feat4Title": "PWA & Performa Tinggi",
+    "feat4Desc": "Dukungan Serwist Service Worker offline-first dan Next.js 16 Server Components.",
+    "previewTitle": "Katalog Preview Data JSON (src/data/lo)",
+    "previewDesc": "Sampel real-time dari koleksi musik, toggle konfigurasi, dan monetisasi aplikasi."
+  },
+  "cms": {
+    "musicTitle": "Koleksi Musik (`music.json`)",
+    "toggleTitle": "Fitur Toggle (`toggle.json`)",
+    "monetizeTitle": "Monetisasi Iklan (`monetize-apps.json`)",
+    "musicTab": "Music JSON",
+    "toggleTab": "Toggle JSON",
+    "monetizeTab": "Monetize JSON",
+    "fieldTitle": "Judul Musik",
+    "fieldUrl": "URL Musik (.mp3)",
+    "fieldBaseUrl": "Base URL Path",
+    "fieldKey": "Toggle Key",
+    "fieldState": "Status Toggle",
+    "fieldValue": "Nilai Key",
+    "fieldAdmobId": "Admob App ID",
+    "fieldUnityId": "Unity Game ID",
+    "githubStatus": "Status Git Push: Terhubung & Auto-Sync",
+    "lastCommit": "Commit Terakhir",
+    "pushSuccess": "Berhasil commit & push data ke GitHub!",
+    "confirmDelete": "Apakah Anda yakin ingin menghapus data ini?",
+    "confirmDeleteDesc": "Tindakan ini akan menghapus record JSON dan melakukan commit push ke GitHub.",
+    "encryptedBadge": "AES-256 Encrypted",
+    "obfuscatedBadge": "Sqids Obfuscated ID"
+  },
+  "auth": {
+    "loginTitle": "Masuk Administrator",
+    "loginSubtitle": "Masukkan kredensial admin terenkripsi untuk mengelola CMS",
+    "passwordLabel": "Kata Sandi Admin",
+    "passwordPlaceholder": "Masukkan kata sandi...",
+    "submitLogin": "Masuk ke Dashboard",
+    "invalidPassword": "Kata sandi admin tidak valid!",
+    "logoutSuccess": "Berhasil keluar dari sesi admin."
   },
   "metadata": {
-    "title": "Amir App",
-    "description": "Amir App — Aplikasi Web Progressive"
+    "title": "UukAak JSON CMS — Amir App",
+    "description": "Platform CMS modern berbasis file JSON, Enkripsi AES-256, & GitHub Commit Sync"
   },
   "error": {
     "notFound": "Halaman tidak ditemukan",
@@ -51,28 +101,7 @@
     "goHome": "Kembali ke Beranda"
   },
   "footer": {
-    "copyright": "© {year} Amir App. Semua hak dilindungi.",
-    "madeWith": "Dibuat dengan"
-  },
-  "demo": {
-    "title": "Enkripsi & Penyamaran ID",
-    "subtitle": "Keamanan tingkat tinggi & URL yang bersih untuk Next.js",
-    "intro": "Halaman ini menunjukkan implementasi dari dua teknik pengamanan ID yang telah diintegrasikan ke dalam template ini.",
-    "obfuscationTitle": "1. Penyamaran ID (Sqids)",
-    "obfuscationDesc": "Mengubah ID integer berurutan (misal dari database) menjadi string acak pendek dan ramah URL. Cocok untuk menyembunyikan ID agar tidak ditebak.",
-    "obfuscationPlaceholder": "Masukkan ID angka positif (misal: 12345)",
-    "obfuscateButton": "Samarkan ID",
-    "deobfuscateButton": "Kembalikan ID",
-    "encryptionTitle": "2. Enkripsi Kriptografis (AES-256-GCM)",
-    "encryptionDesc": "Enkripsi tingkat tinggi yang aman, terautentikasi (AES-GCM), dan anti-manipulasi. Hanya berjalan di sisi server (Server Component / Action).",
-    "encryptionPlaceholder": "Masukkan teks atau UUID sensitif",
-    "encryptButton": "Enkripsi Teks",
-    "decryptButton": "Dekripsi Teks",
-    "result": "Hasil",
-    "original": "Asli",
-    "processed": "Hasil Proses",
-    "errorInvalidNumber": "Silakan masukkan angka positif yang valid.",
-    "errorEmptyText": "Teks tidak boleh kosong.",
-    "success": "Sukses!"
+    "copyright": "© 2026 UukAak CMS (Amir App). Hak cipta dilindungi.",
+    "securityInfo": "Dioperasikan dengan Enkripsi AES-256-GCM & Serwist PWA"
   }
 }
