@@ -1,7 +1,7 @@
 ## 🧠 Context
 
 - **Nama Website** Diserahkan ke Ai
-- **Objective:** Membangun website **Warung Kopi Nusantara** — Landing page kedai kopi artisan dengan online ordering.
+- **Objective:** Membangun website **CMS dari Json File**
 - **Project Base:** Repository ini (`Init-nextjs-app`) — sudah ter-setup dengan Next.js 16, Tailwind CSS v4, TypeScript strict, Serwist PWA
 - **Target Audience:** Dewasa
 - **Tujuan Bisnis:** Menjangkau pasar, memperkenalkan produk dan brand, memudahkan pelanggan melakukan pemesanan.
@@ -15,7 +15,17 @@
 3. **[Halaman 3]** (`/path`) — [Deskripsi]
 
 ### Fitur Utama
-- [ ] 
+- [ ] **Dashboard Admin Crud menggunakan Json**
+- [ ] **Login Admin Menggunakan Json**
+- [ ] **Save Data Menggunakan Github Commit Push**
+- [ ] **Delete Data Menggunakan Github Commit Push**
+- [ ] **Update Data Menggunakan Github Commit Push**
+- [ ] **CRUD Menggunakan Json**
+- [ ] **CRUD Menggunakan Github Commit Push**
+- [ ] **Terencripsi**
+- [ ] **Data mengambil / mencontoh dari src\data\lo**
+- [ ] **Tujuan utamanya CMS src\data\lo**
+
 
 ### Desain & UI
 

@@ -1,0 +1,687 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/a_magical_index/",
+    "music_title": "a_magical_index_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/a_magical_index/",
+    "music_title": "a_magical_index_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/a_magical_index/",
+    "music_title": "a_magical_index_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/a_magical_index/",
+    "music_title": "a_magical_index_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/assasination_classroom/",
+    "music_title": "assasination_classroom_music_7",
+    "music_url": "music_7.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "declaration_of_war",
+    "music_url": "declaration_of_war.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "guren_no_yumiya",
+    "music_url": "guren_no_yumiya.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/attack_on_titan/",
+    "music_title": "shinzou_wo_sasageyo",
+    "music_url": "shinzou_wo_sasageyo.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "death_note",
+    "music_url": "death_note.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "low_of_solipsism",
+    "music_url": "low_of_solipsism.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "death_note_opening_1",
+    "music_url": "opening_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/death_note/",
+    "music_title": "the_world",
+    "music_url": "the_world.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/demon_school/",
+    "music_title": "demon_school_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "good_morning_world",
+    "music_url": "good_morning_world.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "life",
+    "music_url": "life.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "one_small_step",
+    "music_url": "one_small_step.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/dr_stone/",
+    "music_title": "rakuen",
+    "music_url": "rakuen.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "bouken_no_vlog",
+    "music_url": "bouken_no_vlog.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "eden_through_the_rough",
+    "music_url": "eden_through_the_rough.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/edens_zero/",
+    "music_title": "sweet_melancholy",
+    "music_url": "sweet_melancholy.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "again",
+    "music_url": "again.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "crime_punishment",
+    "music_url": "crime_punishment.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "lapis_philosophorum",
+    "music_url": "lapis_philosophorum.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/full_metal_alchemist/",
+    "music_title": "trisha_s_lullaby",
+    "music_url": "trisha_s_lullaby.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/goblin_slayer/",
+    "music_title": "goblin_slayer_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/goblin_slayer/",
+    "music_title": "goblin_slayer_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/god_of_high_school/",
+    "music_title": "god_of_high_school_music_7",
+    "music_url": "music_7.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/haikyu/",
+    "music_title": "haikyu_music_7",
+    "music_url": "music_7.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "blue_encount",
+    "music_url": "blue_encount.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "the_day",
+    "music_url": "the_day.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "you_can_become_a_hero",
+    "music_url": "you_can_become_a_hero.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "you_say_run",
+    "music_url": "you_say_run.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "dakara_hitori_ja_nai",
+    "music_url": "dakara_hitori_ja_nai.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "hero_too",
+    "music_url": "hero_too.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "heroes",
+    "music_url": "heroes.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "higher_ground",
+    "music_url": "higher_ground.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "koukai_no_uta",
+    "music_url": "koukai_no_uta.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "long_hope_philia",
+    "music_url": "long_hope_philia.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "make_my_story",
+    "music_url": "make_my_story.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "odd_future",
+    "music_url": "odd_future.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "peace_sign",
+    "music_url": "peace_sign.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "polaris",
+    "music_url": "polaris.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "shout_baby",
+    "music_url": "shout_baby.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "sora_ni_utaeba",
+    "music_url": "sora_ni_utaeba.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hero_academia/",
+    "music_title": "star_maker",
+    "music_url": "star_maker.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "please_dont_go",
+    "music_url": "please_dont_go.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "iro_kousui",
+    "music_url": "iro_kousui.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/horimiya/",
+    "music_title": "proposal",
+    "music_url": "proposal.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_7",
+    "music_url": "music_7.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_8",
+    "music_url": "music_8.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_9",
+    "music_url": "music_9.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hyouka/",
+    "music_title": "hyouka_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hyouka/",
+    "music_title": "hyouka_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "anata_ga_suki",
+    "music_url": "anata_ga_suki.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "decide",
+    "music_url": "decide.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/isekai_maou/",
+    "music_title": "everybody",
+    "music_url": "everybody.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jojo_adventure/",
+    "music_title": "jojo_adventure_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jojo_adventure/",
+    "music_title": "jojo_adventure_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jojo_adventure/",
+    "music_title": "jojo_adventure_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jojo_adventure/",
+    "music_title": "jojo_adventure_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "kaikai_kitan",
+    "music_url": "kaikai_kitan.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "lost_in_paradise",
+    "music_url": "lost_in_paradise.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "reason_for_living",
+    "music_url": "reason_for_living.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/jujutsu_kaisen/",
+    "music_title": "who_ya",
+    "music_url": "who_ya.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kemono_jihen/",
+    "music_title": "kemono_jihen_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kemono_jihen/",
+    "music_title": "kemono_jihen_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kemono_jihen/",
+    "music_title": "kemono_jihen_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "homura",
+    "music_url": "homura.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "infinity_train",
+    "music_url": "infinity_train.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "kamado_tanjiro_no_uta",
+    "music_url": "kamado_tanjiro_no_uta.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "lisa_gurenge",
+    "music_url": "lisa_gurenge.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/kimetsu_no_yaiba/",
+    "music_title": "mugen_train",
+    "music_url": "mugen_train.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "entaku_houkai",
+    "music_url": "entaku_houkai.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "feelings_hidden_in_the_heart",
+    "music_url": "feelings_hidden_in_the_heart.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/log_horizon/",
+    "music_title": "opening",
+    "music_url": "opening.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/moriarty_the_patriot/",
+    "music_title": "moriarty_the_patriot_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/mushoku_tensei/",
+    "music_title": "only",
+    "music_url": "only.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/mushoku_tensei/",
+    "music_title": "tabibito_no_uta",
+    "music_url": "tabibito_no_uta.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "kara_hajimeru_isekai_seikatsu",
+    "music_url": "kara_hajimeru_isekai_seikatsu.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "paradisus_paradoxum",
+    "music_url": "paradisus_paradoxum.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "stay_alive",
+    "music_url": "stay_alive.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/re_zero/",
+    "music_title": "wishing",
+    "music_url": "wishing.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "boku_no_yubisaki",
+    "music_url": "boku_no_yubisaki.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "soul_salvation",
+    "music_url": "soul_salvation.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/shaman_king/",
+    "music_title": "to_be_shaman_king",
+    "music_url": "to_be_shaman_king.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "atashi_ga_tonari_ni_iru_uchi_ni",
+    "music_url": "atashi_ga_tonari_ni_iru_uchi_ni.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "faith",
+    "music_url": "faith.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tate_no_yusha/",
+    "music_title": "rise",
+    "music_url": "rise.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "another_colony",
+    "music_url": "another_colony.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "like_flames",
+    "music_url": "like_flames.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tensei_shitara_slime_datta_ken/",
+    "music_title": "meguru_mono",
+    "music_url": "meguru_mono.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "cry_baby",
+    "music_url": "cry_baby.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "cry_baby_hard",
+    "music_url": "cry_baby_hard.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "koko_de_iki_wo_shite",
+    "music_url": "koko_de_iki_wo_shite.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/tokyo_revenger/",
+    "music_title": "tokyo_wonder",
+    "music_url": "tokyo_wonder.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "friendship",
+    "music_url": "friendship.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "life_is_cider",
+    "music_url": "life_is_cider.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/wonder_egg/",
+    "music_title": "sudachi_no_uta",
+    "music_url": "sudachi_no_uta.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "ashita_no_hikari",
+    "music_url": "ashita_no_hikari.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "world_trigger_1",
+    "music_url": "world_trigger_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/world_trigger/",
+    "music_title": "world_trigger_2",
+    "music_url": "world_trigger_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/yuru_camp/",
+    "music_title": "yuru_camp_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/yuru_camp/",
+    "music_title": "yuru_camp_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/yuru_camp/",
+    "music_title": "yuru_camp_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/yuru_camp/",
+    "music_title": "yuru_camp_music_4",
+    "music_url": "music_4.ogg"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "testAdmobAppId": "",
+  "testAdmobBanner": "",
+  "testAdmobInterstitial": "",
+  "testAdmobRewarded": "",
+  "admobAppId": "",
+  "admobBannerID": [
+    ""
+  ],
+  "admobInterstitialID": [
+    "ca-app-pub-6741582747146115/3643078257",
+    "ca-app-pub-6741582747146115/3643078257"
+  ],
+  "admobRewardedID": [
+    ""
+  ],
+  "unityGameID": "",
+  "unityInterstitialID": [
+    "Interstitial_Android",
+    "Interstitial_Android"
+  ],
+  "unityBannerId": [
+    ""
+  ],
+  "unityRewardedID": [
+    ""
+  ]
+}

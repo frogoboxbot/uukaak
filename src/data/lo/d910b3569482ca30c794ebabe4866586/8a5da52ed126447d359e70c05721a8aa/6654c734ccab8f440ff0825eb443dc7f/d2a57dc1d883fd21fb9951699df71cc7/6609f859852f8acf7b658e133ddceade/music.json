@@ -1,0 +1,47 @@
+[
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_1",
+    "music_url": "music_1.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_2",
+    "music_url": "music_2.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_3",
+    "music_url": "music_3.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_4",
+    "music_url": "music_4.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_5",
+    "music_url": "music_5.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_6",
+    "music_url": "music_6.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_7",
+    "music_url": "music_7.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_8",
+    "music_url": "music_8.ogg"
+  },
+  {
+    "base_url": "/anime-music-bank-remote-data-source/src/main/api/v1/music/anime/hunter_x_hunter/",
+    "music_title": "hunter_x_hunter_music_9",
+    "music_url": "music_9.ogg"
+  }
+]

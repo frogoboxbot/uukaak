@@ -1,0 +1,1847 @@
+[
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "adele_easy_on_me",
+    "music_url": "adele_easy_on_me.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "balvin_skrillex_in_da_getto",
+    "music_url": "balvin_skrillex_in_da_getto.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "blackpink_lisa_money",
+    "music_url": "blackpink_lisa_money.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "cartoon_on_on_david_levi",
+    "music_url": "cartoon_on_on_david_levi.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "ckay_love_nwantiti",
+    "music_url": "ckay_love_nwantiti.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "drip_report_skechers",
+    "music_url": "drip_report_skechers.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "gayle_abcdefu",
+    "music_url": "gayle_abcdefu.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "imagine_dragon_enemy",
+    "music_url": "imagine_dragon_enemy.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "infinity_jaymes_young",
+    "music_url": "infinity_jaymes_young.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "jason_derulo_jawsh_685_savage_love",
+    "music_url": "jason_derulo_jawsh_685_savage_love.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "lil_nas_x_industry_baby",
+    "music_url": "lil_nas_x_industry_baby.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "meghan_trainor_me_too",
+    "music_url": "meghan_trainor_me_too.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "renai_circulation_kana_hanazawa",
+    "music_url": "renai_circulation_kana_hanazawa.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "rolling_down_in_the_deep_astrona",
+    "music_url": "rolling_down_in_the_deep_astrona.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "the_kid_laroi_justin_bieber_stay",
+    "music_url": "the_kid_laroi_justin_bieber_stay.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "harry_styles_as_it_was",
+    "music_url": "harry_styles_as_it_was.ogg"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "all_falls_down",
+    "music_url": "all_falls_down.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alone",
+    "music_url": "alone.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alone_ii",
+    "music_url": "alone_ii.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "darkside",
+    "music_url": "darkside.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "diamond_heart",
+    "music_url": "diamond_heart.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "different_world",
+    "music_url": "different_world.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "end_of_time",
+    "music_url": "end_of_time.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "faded",
+    "music_url": "faded.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "heading_home",
+    "music_url": "heading_home.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "hymn_for_the_weekend",
+    "music_url": "hymn_for_the_weekend.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "Ignite",
+    "music_url": "Ignite.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "lily",
+    "music_url": "lily.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "lost_control",
+    "music_url": "lost_control.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "on_my_way",
+    "music_url": "on_my_way.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "play",
+    "music_url": "play.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "sing_me_to_sleep",
+    "music_url": "sing_me_to_sleep.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "sky",
+    "music_url": "sky.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "the_spectre",
+    "music_url": "the_spectre.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "time",
+    "music_url": "time.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "tired",
+    "music_url": "tired.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "all_i_want_for_christmas_is_you",
+    "music_url": "all_i_want_for_christmas_is_you.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "believer",
+    "music_url": "believer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blinding_lights",
+    "music_url": "blinding_lights.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "cardigan",
+    "music_url": "cardigan.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "dance_monkey",
+    "music_url": "dance_monkey.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "drivers_license",
+    "music_url": "drivers_license.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "memories",
+    "music_url": "memories.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "mistletoe",
+    "music_url": "mistletoe.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "o_holy_night",
+    "music_url": "o_holy_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "positions",
+    "music_url": "positions.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "rudolph_the_red_nosed_reindeer",
+    "music_url": "rudolph_the_red_nosed_reindeer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "santa_claus_is_coming_to_town",
+    "music_url": "santa_claus_is_coming_to_town.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "silent_night",
+    "music_url": "silent_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "someone_you_loved",
+    "music_url": "someone_you_loved.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "the_christmas_song",
+    "music_url": "the_christmas_song.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "this_christmas",
+    "music_url": "this_christmas.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "willow_smith_wait_a_minute",
+    "music_url": "willow_smith_wait_a_minute.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "psy_that_that_prod_feat_suga_of_bts",
+    "music_url": "psy_that_that_prod_feat_suga_of_bts.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "treasure_darari",
+    "music_url": "treasure_darari.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "camila_cabello_bam_bam_ft_ed_sheeran",
+    "music_url": "camila_cabello_bam_bam_ft_ed_sheeran.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "doja_cat_say_so",
+    "music_url": "doja_cat_say_so.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "dua_lipa_levitating_ft_dababy",
+    "music_url": "dua_lipa_levitating_ft_dababy.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "ed_sheeran_bad_habits",
+    "music_url": "ed_sheeran_bad_habits.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "ed_sheeran_shivers",
+    "music_url": "ed_sheeran_shivers.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "glass_animals_heat_waves",
+    "music_url": "glass_animals_heat_waves.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "justin_bieber_ghost",
+    "music_url": "justin_bieber_ghost.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "lil_nas_x_thats_what_i_want",
+    "music_url": "lil_nas_x_thats_what_i_want.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "post_malone_and_the_weeknd",
+    "music_url": "post_malone_and_the_weeknd.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "rex_orange_county_sunflower",
+    "music_url": "rex_orange_county_sunflower.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "sia_snowman_christmas",
+    "music_url": "sia_snowman_christmas.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "super_gremlin_kodak_black",
+    "music_url": "super_gremlin_kodak_black.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "the_weeknd_save_your_tears",
+    "music_url": "the_weeknd_save_your_tears.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "woman_doja_cat",
+    "music_url": "woman_doja_cat.ogg"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "abyss",
+    "music_url": "abyss.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "adios",
+    "music_url": "adios.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_like",
+    "music_url": "after_like.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_midnight",
+    "music_url": "after_midnight.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "after_school",
+    "music_url": "after_school.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alcohol_free",
+    "music_url": "alcohol_free.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "angel_or_devil",
+    "music_url": "angel_or_devil.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "answer",
+    "music_url": "answer.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "anti_romantic",
+    "music_url": "anti_romantic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "antifragile",
+    "music_url": "antifragile.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "any_song",
+    "music_url": "any_song.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "apple",
+    "music_url": "apple.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "arson",
+    "music_url": "arson.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "as_if_its_your_last",
+    "music_url": "as_if_its_your_last.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "attention",
+    "music_url": "attention.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "aya",
+    "music_url": "aya.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "back_door",
+    "music_url": "back_door.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "bbibbi",
+    "music_url": "bbibbi.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "beatbox",
+    "music_url": "beatbox.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "because",
+    "music_url": "because.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "billion_views",
+    "music_url": "billion_views.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "birthday",
+    "music_url": "birthday.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "black_mamba",
+    "music_url": "black_mamba.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blessed_cursed",
+    "music_url": "blessed_cursed.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blood_sweat_tears",
+    "music_url": "blood_sweat_tears.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blue_hour",
+    "music_url": "blue_hour.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blue_side",
+    "music_url": "blue_side.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blueming",
+    "music_url": "blueming.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "boca",
+    "music_url": "boca.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "born_singer",
+    "music_url": "born_singer.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "boy",
+    "music_url": "boy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "boy_meets_evil",
+    "music_url": "boy_meets_evil.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "breakthrough",
+    "music_url": "breakthrough.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "breath",
+    "music_url": "breath.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "but_you",
+    "music_url": "but_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "butter",
+    "music_url": "butter.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "butter_smooth",
+    "music_url": "butter_smooth.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy",
+    "music_url": "candy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy2",
+    "music_url": "candy2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "candy_sugar_pop",
+    "music_url": "candy_sugar_pop.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cant_you_see_me",
+    "music_url": "cant_you_see_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "celebrate",
+    "music_url": "celebrate.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "celebrity",
+    "music_url": "celebrity.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cheer_up",
+    "music_url": "cheer_up.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/03/",
+    "music_title": "cheers",
+    "music_url": "cheers.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "cheshire",
+    "music_url": "cheshire.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "chi_mat_ba_ram",
+    "music_url": "chi_mat_ba_ram.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "christmas_evel",
+    "music_url": "christmas_evel.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "christmas_tree",
+    "music_url": "christmas_tree.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "coin",
+    "music_url": "coin.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "cookie",
+    "music_url": "cookie.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "crossroads",
+    "music_url": "crossroads.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "crown",
+    "music_url": "crown.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "cry_for_me",
+    "music_url": "cry_for_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "crystal_snow",
+    "music_url": "crystal_snow.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "d_d_dance",
+    "music_url": "d_d_dance.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "dalla_dalla",
+    "music_url": "dalla_dalla.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "dance_the_night_away",
+    "music_url": "dance_the_night_away.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "darari",
+    "music_url": "darari.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/04/",
+    "music_title": "darl_ing",
+    "music_url": "darl_ing.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "ddaeng",
+    "music_url": "ddaeng.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "ddu_du_ddu_du",
+    "music_url": "ddu_du_ddu_du.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "deja_vu",
+    "music_url": "deja_vu.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dimple",
+    "music_url": "dimple.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dingga",
+    "music_url": "dingga.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dive",
+    "music_url": "dive.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dive_into_you",
+    "music_url": "dive_into_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dont_fight_the_feeling",
+    "music_url": "dont_fight_the_feeling.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "double_knot",
+    "music_url": "double_knot.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "doughnut",
+    "music_url": "doughnut.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dreamers",
+    "music_url": "dreamers.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dreams_come_true",
+    "music_url": "dreams_come_true.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "drunk_dazed",
+    "music_url": "drunk_dazed.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dumb_dumb",
+    "music_url": "dumb_dumb.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/05/",
+    "music_title": "dumdi_dumdi",
+    "music_url": "dumdi_dumdi.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "dun_dun_dance",
+    "music_url": "dun_dun_dance.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "dynamite",
+    "music_url": "dynamite.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "egotistic",
+    "music_url": "egotistic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "eight",
+    "music_url": "eight.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "eleven",
+    "music_url": "eleven.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "epiphany",
+    "music_url": "epiphany.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "eternal_sunshine",
+    "music_url": "eternal_sunshine.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fake_true",
+    "music_url": "fake_true.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fancy",
+    "music_url": "fancy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fear",
+    "music_url": "fear.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fearless",
+    "music_url": "fearless.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "feel_my_rhythm",
+    "music_url": "feel_my_rhythm.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "feel_special",
+    "music_url": "feel_special.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fever",
+    "music_url": "fever.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/06/",
+    "music_title": "fever2",
+    "music_url": "fever2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "fiesta",
+    "music_url": "fiesta.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "film_out",
+    "music_url": "film_out.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "fireworks_im_the_one",
+    "music_url": "fireworks_im_the_one.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "first",
+    "music_url": "first.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "flash",
+    "music_url": "flash.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "flu",
+    "music_url": "flu.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "follow",
+    "music_url": "follow.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "for_youth",
+    "music_url": "for_youth.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "forever",
+    "music_url": "forever.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "from_home",
+    "music_url": "from_home.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "future_perfect_pass_the_mic",
+    "music_url": "future_perfect_pass_the_mic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "ganadara",
+    "music_url": "ganadara.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "gangnam_style",
+    "music_url": "gangnam_style.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "girls",
+    "music_url": "girls.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/07/",
+    "music_title": "given_taken",
+    "music_url": "given_taken.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gods_menu",
+    "music_url": "gods_menu.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gogobebe",
+    "music_url": "gogobebe.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gone",
+    "music_url": "gone.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "gone_sad_version",
+    "music_url": "gone_sad_version.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "good_boy_gone_bad",
+    "music_url": "good_boy_gone_bad.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "guerrilla",
+    "music_url": "guerrilla.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "heart_shaker",
+    "music_url": "heart_shaker.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello",
+    "music_url": "hello.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello_2",
+    "music_url": "hello_2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hello_future",
+    "music_url": "hello_future.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hey_tayo",
+    "music_url": "hey_tayo.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hip",
+    "music_url": "hip.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "hold",
+    "music_url": "hold.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "",
+    "music_url": ".mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/08/",
+    "music_title": "home_run",
+    "music_url": "home_run.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "hot",
+    "music_url": "hot.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "hot_sauce",
+    "music_url": "hot_sauce.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "how_you_like_that",
+    "music_url": "how_you_like_that.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "how_you_like_that_sad_version",
+    "music_url": "how_you_like_that_sad_version.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "hurt",
+    "music_url": "hurt.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "hwaa",
+    "music_url": "hwaa.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "hype_boy",
+    "music_url": "hype_boy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "i_cant_stop_me",
+    "music_url": "i_cant_stop_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "i_give_you_my_heart",
+    "music_url": "i_give_you_my_heart.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "i_know_i_love_u",
+    "music_url": "i_know_i_love_u.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "i_love_you",
+    "music_url": "i_love_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "icy",
+    "music_url": "icy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "im_a_b",
+    "music_url": "im_a_b.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "inception",
+    "music_url": "inception.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/09/",
+    "music_title": "into_the_i_land",
+    "music_url": "into_the_i_land.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "jikjin",
+    "music_url": "jikjin.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "jopping",
+    "music_url": "jopping.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "kick_it",
+    "music_url": "kick_it.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "kill_this_love",
+    "music_url": "kill_this_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "knock",
+    "music_url": "knock.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "kura_kura",
+    "music_url": "kura_kura.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "la_di_da",
+    "music_url": "la_di_da.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "lalisa",
+    "music_url": "lalisa.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "last_dance",
+    "music_url": "last_dance.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "last_piece",
+    "music_url": "last_piece.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "left_right",
+    "music_url": "left_right.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "let_me_in_20_cube",
+    "music_url": "let_me_in_20_cube.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "lets_love",
+    "music_url": "lets_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "levanter",
+    "music_url": "levanter.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/10/",
+    "music_title": "life_goes_on",
+    "music_url": "life_goes_on.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "lifes_too_short",
+    "music_url": "lifes_too_short.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "like_ooh_ahh",
+    "music_url": "like_ooh_ahh.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "likey",
+    "music_url": "likey.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "lilac",
+    "music_url": "lilac.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "lion",
+    "music_url": "lion.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "loco",
+    "music_url": "loco.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "loser_lover",
+    "music_url": "loser_lover.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_dive",
+    "music_url": "love_dive.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_poem",
+    "music_url": "love_poem.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_scenario",
+    "music_url": "love_scenario.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_shot",
+    "music_url": "love_shot.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_so_fine",
+    "music_url": "love_so_fine.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_to_hate_me",
+    "music_url": "love_to_hate_me.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "love_to_hate_me_2",
+    "music_url": "love_to_hate_me_2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/11/",
+    "music_title": "lovesick_girls",
+    "music_url": "lovesick_girls.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "luv_u",
+    "music_url": "luv_u.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mafia_in_the_morning",
+    "music_url": "mafia_in_the_morning.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic",
+    "music_url": "magic.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_island",
+    "music_url": "magic_island.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_shop",
+    "music_url": "magic_shop.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magic_tower",
+    "music_url": "magic_tower.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "magician",
+    "music_url": "magician.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mago",
+    "music_url": "mago.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maison",
+    "music_url": "maison.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maniac",
+    "music_url": "maniac.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "maria",
+    "music_url": "maria.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__gone_days",
+    "music_url": "mixtape__gone_days.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__oh",
+    "music_url": "mixtape__oh.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mixtape__on_track",
+    "music_url": "mixtape__on_track.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/12/",
+    "music_title": "mmm",
+    "music_url": "mmm.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "moa_diary_dubaddu_wari_wari",
+    "music_url": "moa_diary_dubaddu_wari_wari.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "money",
+    "music_url": "money.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "monster",
+    "music_url": "monster.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "month10",
+    "music_url": "month10.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "more_more",
+    "music_url": "more_more.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "more_sad_emotional",
+    "music_url": "more_sad_emotional.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "mumumumuch",
+    "music_url": "mumumumuch.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "my_my",
+    "music_url": "my_my.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "my_treasure",
+    "music_url": "my_treasure.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "my_you",
+    "music_url": "my_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "nanana",
+    "music_url": "nanana.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "next_level",
+    "music_url": "next_level.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "not_for_sale",
+    "music_url": "not_for_sale.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "not_shy",
+    "music_url": "not_shy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/13/",
+    "music_title": "nxde",
+    "music_url": "nxde.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "o",
+    "music_url": "o.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "obsession",
+    "music_url": "obsession.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "odd_eye",
+    "music_url": "odd_eye.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "oh_my_god",
+    "music_url": "oh_my_god.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "on_the_ground",
+    "music_url": "on_the_ground.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "on_the_ground_sad_version",
+    "music_url": "on_the_ground_sad_version.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "one",
+    "music_url": "one.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "onehundred",
+    "music_url": "onehundred.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "opening_sequence",
+    "music_url": "opening_sequence.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "orange",
+    "music_url": "orange.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "palette",
+    "music_url": "palette.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "panorama",
+    "music_url": "panorama.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "peaches",
+    "music_url": "peaches.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "perfect_world",
+    "music_url": "perfect_world.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/14/",
+    "music_title": "permission_to_dance",
+    "music_url": "permission_to_dance.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "permission_to_dance_rnb_remix",
+    "music_url": "permission_to_dance_rnb_remix.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pied_piper",
+    "music_url": "pied_piper.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pink_venom",
+    "music_url": "pink_venom.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pink_venom_2",
+    "music_url": "pink_venom_2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pirate",
+    "music_url": "pirate.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "polaroid_love",
+    "music_url": "polaroid_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pop",
+    "music_url": "pop.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pretty_savage",
+    "music_url": "pretty_savage.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "pretty_savage_sad_savage_version",
+    "music_url": "pretty_savage_sad_savage_version.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "promise",
+    "music_url": "promise.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "psycho",
+    "music_url": "psycho.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "puma",
+    "music_url": "puma.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "punch",
+    "music_url": "punch.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "queendom",
+    "music_url": "queendom.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/15/",
+    "music_title": "quotation_mark",
+    "music_url": "quotation_mark.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "ready_for_love",
+    "music_url": "ready_for_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "ready_to_love",
+    "music_url": "ready_to_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "remember",
+    "music_url": "remember.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "ridin",
+    "music_url": "ridin.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "rock_with_you",
+    "music_url": "rock_with_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "rollin",
+    "music_url": "rollin.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "run",
+    "music_url": "run.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "run_away",
+    "music_url": "run_away.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "run_bts",
+    "music_url": "run_bts.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "savage",
+    "music_url": "savage.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "scenery",
+    "music_url": "scenery.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "scientist",
+    "music_url": "scientist.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "secret_story_of_the_swan",
+    "music_url": "secret_story_of_the_swan.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "seesaw",
+    "music_url": "seesaw.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/16/",
+    "music_title": "shout_out",
+    "music_url": "shout_out.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "shut_down",
+    "music_url": "shut_down.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "singularity",
+    "music_url": "singularity.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "sneakers",
+    "music_url": "sneakers.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "so_hot",
+    "music_url": "so_hot.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "solo",
+    "music_url": "solo.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "solo_2",
+    "music_url": "solo_2.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "spark",
+    "music_url": "spark.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "spit_it_out",
+    "music_url": "spit_it_out.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "spring_day",
+    "music_url": "spring_day.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "starry_night",
+    "music_url": "starry_night.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "stay_alive",
+    "music_url": "stay_alive.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "stay_gold",
+    "music_url": "stay_gold.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "sticker",
+    "music_url": "sticker.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "still_life",
+    "music_url": "still_life.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/17/",
+    "music_title": "strawberry_moon",
+    "music_url": "strawberry_moon.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "super_tuna",
+    "music_url": "super_tuna.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "talk_that_talk",
+    "music_url": "talk_that_talk.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "tamed_dashed",
+    "music_url": "tamed_dashed.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "thanxx",
+    "music_url": "thanxx.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "that_that",
+    "music_url": "that_that.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "the_astronaut",
+    "music_url": "the_astronaut.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "the_feels",
+    "music_url": "the_feels.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "the_happiest_girl",
+    "music_url": "the_happiest_girl.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "thumbs_up",
+    "music_url": "thumbs_up.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "thunderous",
+    "music_url": "thunderous.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "tomboy",
+    "music_url": "tomboy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "touchin",
+    "music_url": "touchin.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "trust_fund_baby",
+    "music_url": "trust_fund_baby.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "trust_me_midzy",
+    "music_url": "trust_me_midzy.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/18/",
+    "music_title": "tt",
+    "music_url": "tt.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "turbulence",
+    "music_url": "turbulence.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "twit",
+    "music_url": "twit.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "umpah_umpah",
+    "music_url": "umpah_umpah.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "wa_da_da",
+    "music_url": "wa_da_da.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "wanna_be_myself",
+    "music_url": "wanna_be_myself.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "wannabe",
+    "music_url": "wannabe.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "way_back_home",
+    "music_url": "way_back_home.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "we_lost_the_summer",
+    "music_url": "we_lost_the_summer.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "what_is_love",
+    "music_url": "what_is_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "what_should_i_do",
+    "music_url": "what_should_i_do.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "what_you_waiting_for",
+    "music_url": "what_you_waiting_for.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "where_are_we_now",
+    "music_url": "where_are_we_now.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "who_dis",
+    "music_url": "who_dis.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "why_why_why",
+    "music_url": "why_why_why.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/19/",
+    "music_title": "wild_flower",
+    "music_url": "wild_flower.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "wildside",
+    "music_url": "wildside.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "wishes",
+    "music_url": "wishes.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "with_you",
+    "music_url": "with_you.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "world",
+    "music_url": "world.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "xoxo",
+    "music_url": "xoxo.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yao",
+    "music_url": "yao.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yes_or_yes",
+    "music_url": "yes_or_yes.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yet_to_come",
+    "music_url": "yet_to_come.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "you_calling_my_name",
+    "music_url": "you_calling_my_name.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "you_never_know",
+    "music_url": "you_never_know.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "young_forever",
+    "music_url": "young_forever.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "young_love",
+    "music_url": "young_love.mp3"
+  },
+  {
+    "base_url": "/kpop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/20/",
+    "music_title": "yours",
+    "music_url": "yours.mp3"
+  }
+]

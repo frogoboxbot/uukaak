@@ -1,0 +1,357 @@
+[
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "all_falls_down",
+    "music_url": "all_falls_down.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alone",
+    "music_url": "alone.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "alone_ii",
+    "music_url": "alone_ii.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "darkside",
+    "music_url": "darkside.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "diamond_heart",
+    "music_url": "diamond_heart.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "different_world",
+    "music_url": "different_world.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "end_of_time",
+    "music_url": "end_of_time.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "faded",
+    "music_url": "faded.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "heading_home",
+    "music_url": "heading_home.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "hymn_for_the_weekend",
+    "music_url": "hymn_for_the_weekend.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "Ignite",
+    "music_url": "Ignite.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "lily",
+    "music_url": "lily.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "lost_control",
+    "music_url": "lost_control.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "on_my_way",
+    "music_url": "on_my_way.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "play",
+    "music_url": "play.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "sing_me_to_sleep",
+    "music_url": "sing_me_to_sleep.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "sky",
+    "music_url": "sky.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "the_spectre",
+    "music_url": "the_spectre.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "time",
+    "music_url": "time.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/01/",
+    "music_title": "tired",
+    "music_url": "tired.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "all_i_want_for_christmas_is_you",
+    "music_url": "all_i_want_for_christmas_is_you.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "believer",
+    "music_url": "believer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "blinding_lights",
+    "music_url": "blinding_lights.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "cardigan",
+    "music_url": "cardigan.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "dance_monkey",
+    "music_url": "dance_monkey.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "drivers_license",
+    "music_url": "drivers_license.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "memories",
+    "music_url": "memories.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "mistletoe",
+    "music_url": "mistletoe.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "o_holy_night",
+    "music_url": "o_holy_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "positions",
+    "music_url": "positions.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "rudolph_the_red_nosed_reindeer",
+    "music_url": "rudolph_the_red_nosed_reindeer.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "santa_claus_is_coming_to_town",
+    "music_url": "santa_claus_is_coming_to_town.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "silent_night",
+    "music_url": "silent_night.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "someone_you_loved",
+    "music_url": "someone_you_loved.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "the_christmas_song",
+    "music_url": "the_christmas_song.mp3"
+  },
+  {
+    "base_url": "/pop-s01-music-bank-remote-data-source/src/main/api/v1/music/vol/02/",
+    "music_title": "this_christmas",
+    "music_url": "this_christmas.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "adele_easy_on_me",
+    "music_url": "adele_easy_on_me.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "balvin_skrillex_in_da_getto",
+    "music_url": "balvin_skrillex_in_da_getto.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "blackpink_lisa_money",
+    "music_url": "blackpink_lisa_money.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "cartoon_on_on_david_levi",
+    "music_url": "cartoon_on_on_david_levi.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "ckay_love_nwantiti",
+    "music_url": "ckay_love_nwantiti.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "drip_report_skechers",
+    "music_url": "drip_report_skechers.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "gayle_abcdefu",
+    "music_url": "gayle_abcdefu.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "imagine_dragon_enemy",
+    "music_url": "imagine_dragon_enemy.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "infinity_jaymes_young",
+    "music_url": "infinity_jaymes_young.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "jason_derulo_jawsh_685_savage_love",
+    "music_url": "jason_derulo_jawsh_685_savage_love.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "lil_nas_x_industry_baby",
+    "music_url": "lil_nas_x_industry_baby.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "meghan_trainor_me_too",
+    "music_url": "meghan_trainor_me_too.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "renai_circulation_kana_hanazawa",
+    "music_url": "renai_circulation_kana_hanazawa.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "rolling_down_in_the_deep_astrona",
+    "music_url": "rolling_down_in_the_deep_astrona.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_1/",
+    "music_title": "the_kid_laroi_justin_bieber_stay",
+    "music_url": "the_kid_laroi_justin_bieber_stay.mp3"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "harry_styles_as_it_was",
+    "music_url": "harry_styles_as_it_was.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "willow_smith_wait_a_minute",
+    "music_url": "willow_smith_wait_a_minute.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "psy_that_that_prod_feat_suga_of_bts",
+    "music_url": "psy_that_that_prod_feat_suga_of_bts.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "treasure_darari",
+    "music_url": "treasure_darari.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "camila_cabello_bam_bam_ft_ed_sheeran",
+    "music_url": "camila_cabello_bam_bam_ft_ed_sheeran.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "doja_cat_say_so",
+    "music_url": "doja_cat_say_so.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "dua_lipa_levitating_ft_dababy",
+    "music_url": "dua_lipa_levitating_ft_dababy.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "ed_sheeran_bad_habits",
+    "music_url": "ed_sheeran_bad_habits.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "ed_sheeran_shivers",
+    "music_url": "ed_sheeran_shivers.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "glass_animals_heat_waves",
+    "music_url": "glass_animals_heat_waves.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "justin_bieber_ghost",
+    "music_url": "justin_bieber_ghost.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "lil_nas_x_thats_what_i_want",
+    "music_url": "lil_nas_x_thats_what_i_want.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "post_malone_and_the_weeknd",
+    "music_url": "post_malone_and_the_weeknd.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "rex_orange_county_sunflower",
+    "music_url": "rex_orange_county_sunflower.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "sia_snowman_christmas",
+    "music_url": "sia_snowman_christmas.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "super_gremlin_kodak_black",
+    "music_url": "super_gremlin_kodak_black.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "the_weeknd_save_your_tears",
+    "music_url": "the_weeknd_save_your_tears.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
+    "music_title": "woman_doja_cat",
+    "music_url": "woman_doja_cat.ogg"
+  }
+]
