@@ -26,6 +26,6 @@ export async function pushJsonCommit(
     commitHash,
     timestamp,
     message,
-    author: "UukAak Admin Bot <admin@uukaak.app>",
+    author: "frogoboxbot <frogoboxbot@gmail.com>",
   };
 }
