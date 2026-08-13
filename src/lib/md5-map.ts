@@ -1,8 +1,3 @@
-/**
- * MD5 Hash Map & Decrypter/Resolver Utility
- * Maps MD5 hashes in src/data/lo to human-readable names.
- */
-
 export const KNOWN_MD5_MAP: Record<string, string> = {
   // Top-level Package / Project Hashes
   "6435a81a05f577fbc6298f1e3ba1c108": "tiktok-s01-piano-bundle",
@@ -39,6 +34,17 @@ export const KNOWN_MD5_MAP: Record<string, string> = {
   "17be2c38d861358df84626a62529bd9c": "tralalero-tralala-brainrot-piano",
   "78745efb0a0d03b280e67609d0fbd7c4": "special-edition-piano-tiles",
 };
+
+/**
+ * Dynamically registers an MD5 hash mapping in memory.
+ */
+export function registerMd5MappingInMemory(hash: string, plaintext: string) {
+  const cleanHash = hash.trim().toLowerCase();
+  const cleanName = plaintext.trim();
+  if (cleanHash && cleanName) {
+    KNOWN_MD5_MAP[cleanHash] = cleanName;
+  }
+}
 
 /**
  * Resolves an MD5 hash string to its human-readable plaintext name if available.
@@ -79,3 +85,4 @@ export function getFolderDisplayName(relativePath: string): string {
 
   return `📦 [${topLabel}] 🎮 ${gameLabel}`;
 }
+

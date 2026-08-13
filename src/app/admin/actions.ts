@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { verifyAdminPassword, createAdminSession, deleteAdminSession, isAdminAuthenticated } from "@/lib/admin-auth";
-import { getMusicList, saveMusicList, getToggleList, saveToggleList } from "@/lib/lo-cms";
+import { getMusicList, saveMusicList, getToggleList, saveToggleList, createNewProjectFolder } from "@/lib/lo-cms";
 import { pushJsonCommit } from "@/lib/github-sync";
 import { deobfuscateId } from "@/lib/obfuscator";
 
@@ -227,3 +227,30 @@ export async function deleteToggleAction(obfuscatedId: string, selectedFolder?: 
 
   return { success: false, message: "Gagal menghapus dari file JSON." };
 }
+
+export async function createFolderAction(formData: FormData) {
+  const isAuth = await isAdminAuthenticated();
+  if (!isAuth) throw new Error("Unauthorized");
+
+  const topFolderName = (formData.get("topFolderName") as string) || "";
+  const gameName = (formData.get("gameName") as string) || "";
+
+  if (!topFolderName || !gameName) {
+    return { success: false, message: "Nama folder utama dan nama game wajib diisi." };
+  }
+
+  const res = await createNewProjectFolder({ topFolderName, gameName });
+  if (res.success) {
+    const commit = await pushJsonCommit("folder", "CREATE", `${topFolderName}/${gameName}`);
+    revalidatePath("/admin/dashboard");
+    revalidatePath("/");
+    return {
+      success: true,
+      message: `${res.message} Commit Hash: ${commit.commitHash}`,
+      relativePath: res.relativePath,
+    };
+  }
+
+  return { success: false, message: res.message };
+}
+

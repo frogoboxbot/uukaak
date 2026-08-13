@@ -13,6 +13,7 @@ import {
   createToggleAction,
   updateToggleAction,
   deleteToggleAction,
+  createFolderAction,
 } from "@/app/admin/actions";
 
 export function DashboardClient({
@@ -62,6 +63,32 @@ export function DashboardClient({
   const [isAddToggleOpen, setIsAddToggleOpen] = useState(false);
   const [editingToggle, setEditingToggle] = useState<ToggleItem | null>(null);
   const [deletingToggleId, setDeletingToggleId] = useState<string | null>(null);
+
+  const [isAddFolderOpen, setIsAddFolderOpen] = useState(false);
+  const [selectedTopChoice, setSelectedTopChoice] = useState<string>("");
+  const [customTopName, setCustomTopName] = useState<string>("");
+  const [gameInputName, setGameInputName] = useState<string>("");
+
+  const handleCreateFolder = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const formData = new FormData(e.currentTarget);
+    const finalTopName = selectedTopChoice === "__NEW__" ? customTopName : selectedTopChoice;
+
+    formData.set("topFolderName", finalTopName);
+
+    startTransition(async () => {
+      const res = await createFolderAction(formData);
+      showToast(res.message, res.success ? "success" : "error");
+      if (res.success) {
+        setIsAddFolderOpen(false);
+        setCustomTopName("");
+        setGameInputName("");
+        if (res.relativePath) {
+          router.push(`/admin/dashboard?folder=${encodeURIComponent(res.relativePath)}`);
+        }
+      }
+    });
+  };
 
   const showToast = (msg: string, type: "success" | "error" = "success") => {
     setToastMessage(msg);
@@ -237,6 +264,19 @@ export function DashboardClient({
               </select>
             </div>
           )}
+
+          <button
+            type="button"
+            onClick={() => {
+              const firstTop = Object.keys(groupedFolders)[0] ? resolveMd5(Object.keys(groupedFolders)[0]) : "__NEW__";
+              setSelectedTopChoice(firstTop);
+              setIsAddFolderOpen(true);
+            }}
+            className="w-full sm:w-auto h-11 px-4 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-bold text-xs transition-all cursor-pointer flex items-center justify-center gap-1.5 shadow-md shadow-indigo-500/20 shrink-0 whitespace-nowrap"
+          >
+            <span>📂</span>
+            <span>Tambah Folder</span>
+          </button>
 
           <form action={logoutAdminAction} className="shrink-0">
             <button
@@ -664,6 +704,70 @@ export function DashboardClient({
             </Button>
           </div>
         </div>
+      </Modal>
+
+      {/* MODAL 7: Add New Project Folder */}
+      <Modal isOpen={isAddFolderOpen} onClose={() => setIsAddFolderOpen(false)} title="Tambah Folder Data Baru (MD5 Encrypted)">
+        <form onSubmit={handleCreateFolder} className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1.5">
+            <label className="text-xs font-semibold text-slate-700 dark:text-slate-300">
+              Pilih / Buat Folder Utama (Bundle Package)
+            </label>
+            <select
+              value={selectedTopChoice}
+              onChange={(e) => setSelectedTopChoice(e.target.value)}
+              className="w-full h-11 px-4 rounded-xl border bg-white/80 dark:bg-slate-900/80 border-slate-300 dark:border-slate-700 text-slate-900 dark:text-slate-100 text-xs font-semibold"
+            >
+              {Object.keys(groupedFolders).map((topHash) => {
+                const topName = resolveMd5(topHash);
+                return (
+                  <option key={topHash} value={topName}>
+                    📦 {topName} ({topHash.slice(0, 8)}...)
+                  </option>
+                );
+              })}
+              <option value="__NEW__">➕ + Buat Bundle / Project Utama Baru</option>
+            </select>
+          </div>
+
+          {selectedTopChoice === "__NEW__" && (
+            <Input
+              label="Nama Bundle / Project Utama Baru (Plaintext)"
+              required
+              placeholder="misal: cyberpunk-s01-piano-bundle"
+              value={customTopName}
+              onChange={(e) => setCustomTopName(e.target.value)}
+            />
+          )}
+
+          <Input
+            label="Nama Game / App Baru (Plaintext)"
+            required
+            placeholder="misal: piano-tiles-cyber-2077"
+            value={gameInputName}
+            onChange={(e) => setGameInputName(e.target.value)}
+            name="gameName"
+          />
+
+          {/* Path & MD5 Information Box */}
+          <div className="p-3.5 rounded-xl bg-indigo-950/40 border border-indigo-500/30 flex flex-col gap-1.5 text-xs font-mono text-slate-300">
+            <div className="flex items-center gap-1.5 font-bold text-indigo-400">
+              <span>🔒 Skema Struktur Folder Enkripsi MD5:</span>
+            </div>
+            <p className="text-[11px] text-slate-400 leading-relaxed">
+              Folder akan dibuat di <code className="text-emerald-400 font-bold">src/data/lo/&lt;top_md5&gt;/8a5da52ed126447d359e70c05721a8aa/6654c734ccab8f440ff0825eb443dc7f/d2a57dc1d883fd21fb9951699df71cc7/&lt;game_md5&gt;/</code> sesuai konvensi project.
+            </p>
+          </div>
+
+          <div className="flex justify-end gap-3 pt-2">
+            <Button type="button" variant="ghost" onClick={() => setIsAddFolderOpen(false)}>
+              Batal
+            </Button>
+            <Button type="submit" isLoading={isPending}>
+              Buat Folder & Simpan
+            </Button>
+          </div>
+        </form>
       </Modal>
     </div>
   );

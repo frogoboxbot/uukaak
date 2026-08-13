@@ -1,9 +1,10 @@
 import "server-only";
 import fs from "fs/promises";
 import path from "path";
+import crypto from "crypto";
 import { encrypt } from "@/lib/crypto";
 import { obfuscateId } from "@/lib/obfuscator";
-import { getFolderDisplayName, parseFolderPath } from "@/lib/md5-map";
+import { getFolderDisplayName, parseFolderPath, registerMd5MappingInMemory } from "@/lib/md5-map";
 
 export interface MusicItem {
   id: number;
@@ -256,3 +257,112 @@ export async function saveMonetizeConfig(filePath: string, config: MonetizeConfi
     return false;
   }
 }
+
+export function toMd5(text: string): string {
+  return crypto.createHash("md5").update(text.trim()).digest("hex");
+}
+
+export async function registerMd5Mapping(hash: string, plaintext: string) {
+  const cleanHash = hash.trim().toLowerCase();
+  const cleanName = plaintext.trim();
+  if (!cleanHash || !cleanName) return;
+
+  registerMd5MappingInMemory(cleanHash, cleanName);
+
+  try {
+    const filePath = path.join(process.cwd(), "src", "lib", "md5-map.ts");
+    let fileContent = await fs.readFile(filePath, "utf-8");
+    if (!fileContent.includes(`"${cleanHash}":`)) {
+      const entryStr = `  "${cleanHash}": "${cleanName}",\n`;
+      fileContent = fileContent.replace(
+        `export const KNOWN_MD5_MAP: Record<string, string> = {`,
+        `export const KNOWN_MD5_MAP: Record<string, string> = {\n${entryStr}`
+      );
+      await fs.writeFile(filePath, fileContent, "utf-8");
+    }
+  } catch (err) {
+    console.error("Failed to persist MD5 mapping to md5-map.ts:", err);
+  }
+}
+
+const API_HASH = "8a5da52ed126447d359e70c05721a8aa"; // md5("api")
+const V1_HASH = "6654c734ccab8f440ff0825eb443dc7f";  // md5("v1")
+const APP_HASH = "d2a57dc1d883fd21fb9951699df71cc7"; // md5("app")
+
+export async function createNewProjectFolder({
+  topFolderName,
+  gameName,
+}: {
+  topFolderName: string;
+  gameName: string;
+}): Promise<{ success: boolean; message: string; relativePath?: string }> {
+  try {
+    const cleanTop = topFolderName.trim();
+    const cleanGame = gameName.trim();
+
+    if (!cleanTop || !cleanGame) {
+      return { success: false, message: "Nama folder utama dan nama game wajib diisi." };
+    }
+
+    const isTopAlreadyHash = /^[a-f0-9]{32}$/i.test(cleanTop);
+    const topHash = isTopAlreadyHash ? cleanTop.toLowerCase() : toMd5(cleanTop);
+    if (!isTopAlreadyHash) {
+      await registerMd5Mapping(topHash, cleanTop);
+    }
+
+    const isGameAlreadyHash = /^[a-f0-9]{32}$/i.test(cleanGame);
+    const gameHash = isGameAlreadyHash ? cleanGame.toLowerCase() : toMd5(cleanGame);
+    if (!isGameAlreadyHash) {
+      await registerMd5Mapping(gameHash, cleanGame);
+    }
+
+    const targetDir = path.join(DATA_DIR, topHash, API_HASH, V1_HASH, APP_HASH, gameHash);
+    await fs.mkdir(targetDir, { recursive: true });
+
+    const musicFilePath = path.join(targetDir, "music.json");
+    try {
+      await fs.access(musicFilePath);
+    } catch {
+      await fs.writeFile(musicFilePath, "[]", "utf-8");
+    }
+
+    const toggleFilePath = path.join(targetDir, "toggle.json");
+    try {
+      await fs.access(toggleFilePath);
+    } catch {
+      await fs.writeFile(toggleFilePath, "[]", "utf-8");
+    }
+
+    const monetizeFilePath = path.join(targetDir, "monetize-apps.json");
+    try {
+      await fs.access(monetizeFilePath);
+    } catch {
+      const defaultMonetize = {
+        testAdmobAppId: "ca-app-pub-3940256099942544~3347511713",
+        testAdmobBanner: "ca-app-pub-3940256099942544/6300978111",
+        testAdmobInterstitial: "ca-app-pub-3940256099942544/1033173712",
+        testAdmobRewarded: "ca-app-pub-3940256099942544/5224354917",
+        admobAppId: "",
+        admobBannerID: [],
+        admobInterstitialID: [],
+        admobRewardedID: [],
+        unityGameID: "",
+        unityInterstitialID: [],
+        unityBannerId: [],
+        unityRewardedID: [],
+      };
+      await fs.writeFile(monetizeFilePath, JSON.stringify(defaultMonetize, null, 2), "utf-8");
+    }
+
+    const relativePath = `${topHash}/${API_HASH}/${V1_HASH}/${APP_HASH}/${gameHash}`;
+    return {
+      success: true,
+      message: `Folder '${cleanGame}' (MD5: ${gameHash.slice(0, 8)}...) berhasil dibuat di src/data/lo!`,
+      relativePath,
+    };
+  } catch (err) {
+    console.error("Failed to create new project folder:", err);
+    return { success: false, message: "Gagal membuat folder baru di disk." };
+  }
+}
+
