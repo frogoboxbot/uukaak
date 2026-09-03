@@ -1,11 +1,12 @@
 export const KNOWN_MD5_MAP: Record<string, string> = {
-  // Top-level Package / Project Hashes
-  "6435a81a05f577fbc6298f1e3ba1c108": "tiktok-s01-piano-bundle",
-  "65dc4fe83675577ded5cbecc6dbdc400": "pop-s01-piano-bundle",
-  "7d9d07ba5b4a2220773cdebcd765082b": "brainrot-mix-piano-bundle",
-  "bc9f3bd7783d2275bf97546d9df57fc3": "anime-s01-piano-bundle",
-  "d910b3569482ca30c794ebabe4866586": "rhythm-s01-piano-bundle",
-  "f470eb472a2ad06fb0a7d4c4948da092": "kpop-cat-piano-bundle",
+  // Top-level Package / Project Hashes (Game Server)
+  "6435a81a05f577fbc6298f1e3ba1c108": "suncode-remote-data-source",
+  "65dc4fe83675577ded5cbecc6dbdc400": "frogo-remote-data-source",
+  "7d9d07ba5b4a2220773cdebcd765082b": "cocopocinki-remote-data-source",
+  "bc9f3bd7783d2275bf97546d9df57fc3": "hicreates-remote-data-source",
+  "d910b3569482ca30c794ebabe4866586": "cloudhouseid-remote-data-source",
+  "f470eb472a2ad06fb0a7d4c4948da092": "netralcreative-remote-data-source",
+  "dfc7e6d12011a1a01cd933d45c8688e6": "uxl-remote-data-source",
 
   // Intermediate subdirectories
   "8a5da52ed126447d359e70c05721a8aa": "api",
