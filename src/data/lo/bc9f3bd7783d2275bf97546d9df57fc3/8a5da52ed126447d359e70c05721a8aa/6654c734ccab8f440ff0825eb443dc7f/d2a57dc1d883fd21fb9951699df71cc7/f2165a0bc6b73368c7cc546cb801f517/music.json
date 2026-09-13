@@ -1,0 +1,12 @@
+[
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/dummy/",
+    "music_title": "ncs_piano_1",
+    "music_url": "ncs_piano_1.ogg"
+  },
+  {
+    "base_url": "/cartoon-music-bank-remote-data-source/api/v1/music/dummy/",
+    "music_title": "ncs_piano_2",
+    "music_url": "ncs_piano_2.mid"
+  }
+]
