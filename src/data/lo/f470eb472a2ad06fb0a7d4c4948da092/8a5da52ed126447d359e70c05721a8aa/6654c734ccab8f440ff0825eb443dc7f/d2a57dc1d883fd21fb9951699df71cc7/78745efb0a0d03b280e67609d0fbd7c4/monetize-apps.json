@@ -14,6 +14,12 @@
   "admobRewardedID": [
     "ca-app-pub-3999524823523192/5256081085"
   ],
+  "admobRewardedInterstitialID": [
+    ""
+  ],
+  "admobAppOpenID": [
+    ""
+  ],
   "unityGameID": "",
   "unityInterstitialID": [
     "Interstitial_Android",

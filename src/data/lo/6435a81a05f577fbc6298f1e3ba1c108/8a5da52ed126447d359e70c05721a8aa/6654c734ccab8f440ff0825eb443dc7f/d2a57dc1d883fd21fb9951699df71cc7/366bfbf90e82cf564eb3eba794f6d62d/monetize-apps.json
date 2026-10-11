@@ -14,6 +14,12 @@
   "admobRewardedID": [
     ""
   ],
+  "admobRewardedInterstitialID": [
+    ""
+  ],
+  "admobAppOpenID": [
+    ""
+  ],
   "unityGameID": "",
   "unityInterstitialID": [
     "Interstitial_Android",
